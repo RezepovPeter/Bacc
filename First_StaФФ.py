@@ -1,1 +1,2 @@
 print('AYE')
+print('AYF')
